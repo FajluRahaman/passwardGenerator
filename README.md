@@ -22,39 +22,6 @@ A fully responsive Password Generator application built using React (Hooks) and 
 * JavaScript
 * Vite
 
----
-
-
-
----
-
-
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/password-generator.git
-```
-
-2. Navigate to project folder
-
-```bash
-cd password-generator
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the project
-
-```bash
-npm run dev
-```
-
----
 
 ## 📂 Project Structure
 
