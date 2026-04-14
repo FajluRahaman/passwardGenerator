@@ -28,7 +28,7 @@ A fully responsive Password Generator application built using React (Hooks) and 
 
 ---
 
-## ⚙️ Installation
+
 
 1. Clone the repository
 
